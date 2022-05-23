@@ -12,8 +12,8 @@ Resources for the the simulated hacking game [Grey Hack](https://store.steampowe
 ## Various scripts I found online
 [/sourcecode/](https://github.com/dozmert/Greyhack-resources/sourcecode)
 - Collection of source code for the game
- - Copied from: https://github.com/psimonson/greyhack-scripts
- - Developer: -   Philip "5n4k3" Simonson
+  - Copied from: https://github.com/psimonson/greyhack-scripts
+  - Developer: -   Philip "5n4k3" Simonson
 
 [aircracksuite.src](https://github.com/dozmert/Greyhack-resources/blob/main/aircracksuite.src.md)
 - N/A
