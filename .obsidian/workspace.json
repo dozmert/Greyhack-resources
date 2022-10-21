@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "bbce09a731094fdc",
+    "type": "split",
+    "children": [
+      {
+        "id": "35a5c57fc32f7624",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bc793e479c59029",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6820af0af8842f55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "autohackssh.src.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "43337bf0f038b23e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "autohackssh.src.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cdf72249a24c7785",
+    "type": "split",
+    "children": [
+      {
+        "id": "9674e368ec7256fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a3ca2ccd05598b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b8362880af47be08",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "936d969cd62c3cc9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "27196d6675a8a7d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "2401caca8120082f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c5aeb02f5e7d744",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "autohackssh.src.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7d2560f752de1be2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "autohackssh.src.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2eaadc81f3c54d5e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dc72b003d7a4cf41",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "autohackssh.src.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "43337bf0f038b23e",
+  "lastOpenFiles": [
+    "Create Folder.md",
+    "autohackssh.src.md",
+    "readme.md"
+  ]
+}
